@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 80px;
+  transition: all 1s;
+}
+
+h1:hover {
+  color: white;
+}
